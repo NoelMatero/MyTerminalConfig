@@ -1,5 +1,5 @@
 # My terminal in Fedora
-This is what my terminal looks like in Fedora Linux. 
+This is what my terminal looks like in Fedora Linux using [Starship](https://starship.rs/) and Gnome.  
 
 ![](https://github.com/NoelMatero/MyTerminalConfig/blob/main/images/scheenshot_1.png)
 
